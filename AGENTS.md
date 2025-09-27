@@ -1,2 +1,0 @@
-# copilot-template
-copilot
